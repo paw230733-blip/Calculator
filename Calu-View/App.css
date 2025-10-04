@@ -1,0 +1,16 @@
+.App{
+    margin: 50%;
+}
+.Container{
+    border: 3px solid black;
+    display: block;
+    background-color: aqua;
+    margin: 30%;
+    padding :  25px ;
+    padding: auto;
+    height: 80%;
+    font-size: large;
+    font-style: unset;
+    font-display: auto;
+    
+}
