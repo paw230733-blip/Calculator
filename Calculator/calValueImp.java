@@ -18,9 +18,9 @@ public class calValueImp implements calService {
     }
 
     @Override
-    public String mulultiply(calValue calValue) {
-       double mulultiply = calValue.getA()* calValue.getB()* calValue.getC()*calValue.getD()*calValue.getE()*calValue.getF();
-       return " this is your multiply" +mulultiply;
+    public String multiply(calValue calValue) {
+       double multiply = calValue.getA()* calValue.getB()* calValue.getC()*calValue.getD()*calValue.getE()*calValue.getF();
+       return " this is your multiply" +multiply;
     }
 
     @Override
